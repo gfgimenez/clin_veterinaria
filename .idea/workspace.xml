@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c2340be-636a-40f4-bdc8-2d351b6ccc44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../La Geekipedia de Ernesto/cursoSpringBoot/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../La Geekipedia de Ernesto/cursoSpringBoot/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../La Geekipedia de Ernesto/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/controller/aplicacionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/controller/aplicacionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/repository/PersonaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/repository/PersonaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/service/IPersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/service/IPersonaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/service/PersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/service/PersonaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/Controller/AlquileresController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/Controller/AlquileresController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/dto/PropiedadDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/dto/PropiedadDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/model/Inquilino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/model/Inquilino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/model/Propiedad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PatronDTO (1)/PatronDTO/src/main/java/com/example/PatronDTO/model/Propiedad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/controller/PosteoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/controller/PosteoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/model/Posteo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/model/Posteo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/repository/PosteoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../autowired/src/main/java/com/cursoSpring/autowired/repository/PosteoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicios/Ejercicio Integrador 1/src/main/java/org/example/Controlador/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicios/Ejercicio Integrador 1/src/main/java/org/example/Controlador/Controlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Controlador/HolaControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Controlador/HolaControlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Odontologo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Odontologo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Restaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicios/ejercicios/src/main/java/com/miaplication/ejercicios/Modelo/Restaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patronDTO/src/main/java/Controller/AlquileresController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patronDTO/src/main/java/com/example/patronDTO/Inquilino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patronDTO/src/main/java/com/example/patronDTO/Propiedad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patronDTO/src/main/java/com/example/patronDTO/PropiedadDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primerproyecto/primerproyecto/src/main/java/com/miaplication/primerproyecto/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../primerproyecto/primerproyecto/src/main/java/com/miaplication/primerproyecto/Controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3AH0SBphzQLweoGm7LZv5fTgU6W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClinicaVet.executor": "Run",
+    "Application.ClinicaVeterinariaApplication.executor": "Run",
+    "Maven.ClinicaVeterinaria [clean].executor": "Run",
+    "Maven.ClinicaVeterinaria [install].executor": "Run",
+    "Maven.clinica_veterinaria [clean].executor": "Run",
+    "Maven.clinica_veterinaria [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Guille/IdeaProjects/Curso Spring Boots/ClinicaVeterinaria/clinica_veterinaria"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClinicaVet" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="DB_PASSWORD" value="1234" />
+        <env name="DB_PLATFORM" value="org.hibernate.dialect.MySQL8Dialect" />
+        <env name="DB_URL" value="jdbc:mysql://clinica_vet:3306/clinica_veterinaria?createDatabaseIfNotExist=true&amp;serverTimezone=UTC" />
+        <env name="DB_USER_NAME" value="root" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.todocodeacademy.ClinicaVeterinaria.ClinicaVeterinariaApplication" />
+      <module name="ClinicaVeterinaria" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2340be-636a-40f4-bdc8-2d351b6ccc44" name="Changes" comment="" />
+      <created>1772234186170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772234186170</updated>
+    </task>
+    <servers />
+  </component>
+</project>

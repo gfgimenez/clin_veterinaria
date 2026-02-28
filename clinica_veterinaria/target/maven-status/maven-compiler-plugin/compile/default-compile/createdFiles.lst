@@ -1,0 +1,12 @@
+com\todocodeacademy\ClinicaVeterinaria\controller\MascotaController.class
+com\todocodeacademy\ClinicaVeterinaria\service\DuenioService.class
+com\todocodeacademy\ClinicaVeterinaria\service\IDuenioService.class
+com\todocodeacademy\ClinicaVeterinaria\repository\IMascotaRepository.class
+com\todocodeacademy\ClinicaVeterinaria\model\Duenio.class
+com\todocodeacademy\ClinicaVeterinaria\service\IMascotaService.class
+com\todocodeacademy\ClinicaVeterinaria\repository\IDuenioRepository.class
+com\todocodeacademy\ClinicaVeterinaria\service\MascotaService.class
+com\todocodeacademy\ClinicaVeterinaria\controller\DuenioController.class
+com\todocodeacademy\ClinicaVeterinaria\ClinicaVeterinariaApplication.class
+com\todocodeacademy\ClinicaVeterinaria\dto\MascoDuenioDTO.class
+com\todocodeacademy\ClinicaVeterinaria\model\Mascota.class
