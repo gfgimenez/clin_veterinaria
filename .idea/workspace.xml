@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c2340be-636a-40f4-bdc8-2d351b6ccc44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinica_veterinaria/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/clinica_veterinaria/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../La Geekipedia de Ernesto/cursoSpringBoot/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../La Geekipedia de Ernesto/cursoSpringBoot/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../La Geekipedia de Ernesto/docker-compose.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/controller/aplicacionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multicapa/src/main/java/com/example/Multicapa/controller/aplicacionController.java" afterDir="false" />
@@ -37,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -49,9 +51,9 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3AH0SBphzQLweoGm7LZv5fTgU6W" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -60,21 +62,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClinicaVet.executor": "Run",
-    "Application.ClinicaVeterinariaApplication.executor": "Run",
-    "Maven.ClinicaVeterinaria [clean].executor": "Run",
-    "Maven.ClinicaVeterinaria [install].executor": "Run",
-    "Maven.clinica_veterinaria [clean].executor": "Run",
-    "Maven.clinica_veterinaria [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Guille/IdeaProjects/Curso Spring Boots/ClinicaVeterinaria/clinica_veterinaria"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClinicaVet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClinicaVeterinariaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ClinicaVeterinaria [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ClinicaVeterinaria [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clinica_veterinaria [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clinica_veterinaria [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Guille/IdeaProjects/Curso Spring Boots/ClinicaVeterinaria/clinica_veterinaria&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ClinicaVet" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
